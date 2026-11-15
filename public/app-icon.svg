@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">Our Budget</title>
+  <desc id="description">Two connected wallets forming a heart</desc>
+  <rect width="512" height="512" rx="112" fill="#0f806e"/>
+  <path d="M256 399c-18-16-111-81-145-137-35-58-6-126 55-133 37-5 70 16 90 49 20-33 53-54 90-49 61 7 90 75 55 133-34 56-127 121-145 137Z" fill="#d1faef"/>
+  <rect x="121" y="205" width="270" height="115" rx="38" fill="#fff"/>
+  <path d="M140 240h232v65H140z" fill="#ecfdf9"/>
+  <circle cx="336" cy="263" r="18" fill="#0f806e"/>
+  <path d="M171 205v-27c0-23 19-42 42-42h86c23 0 42 19 42 42v27" fill="none" stroke="#fff" stroke-width="24" stroke-linecap="round"/>
+</svg>

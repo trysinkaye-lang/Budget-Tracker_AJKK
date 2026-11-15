@@ -1,0 +1,25 @@
+{
+  "name": "Our Budget — Couples Finance Tracker",
+  "short_name": "Our Budget",
+  "description": "An offline couples budgeting, wallet, savings, and expense tracker.",
+  "theme_color": "#0f806e",
+  "background_color": "#f3f6f5",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
